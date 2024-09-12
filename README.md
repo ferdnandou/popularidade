@@ -14,13 +14,7 @@ Os gráficos mostram a média mensal de popularidade das linguagens, permitindo 
 
 ![Média Mensal da Popularidade](media_mensal.png)
 
-## 3. **Gráficos Interativos 3D**
-
-Um gráfico 3D interativo mostra a popularidade das linguagens Python e Java em relação à C++ ao longo do tempo.
-
-![Gráfico 3D Interativo](grafico_3d_interativo.html)
-
-## 4. **Conclusões**
+## 3. **Conclusões**
 
 - **Tendências de Longo Prazo:** A análise revelou uma tendência de crescimento da popularidade de Python ao longo dos anos, enquanto Java e C++ mostram uma variação mais estável.
 - **Padrões Sazonais:** Observou-se um aumento na popularidade de Python em determinadas épocas do ano, indicando possíveis padrões sazonais.
